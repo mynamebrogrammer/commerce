@@ -1,0 +1,38 @@
+.header-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .store-logo {
+    margin-right: 1em;
+  }
+  
+  .logo-image {
+    width: 100px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .header-content {
+    flex-grow: 1;
+  }
+  
+  .title {
+    margin-bottom: 1em;
+  }
+  
+  .header-title {
+    font-size: 1.5em;
+    font-weight: 600;
+    margin-bottom: 0.2em;
+  }
+  
+  .header-address,
+  .header-opening-hours {
+    font-size: 1em;
+    font-weight: 400;
+    margin-bottom: 0.2em;
+    color: #555;
+  }
+

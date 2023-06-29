@@ -1,7 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import pic from "../assets/images/commerceback.png";
-import "../assets/about.css";
+import "../assets/css/about.css";
 
 export default function About() {
   return (
